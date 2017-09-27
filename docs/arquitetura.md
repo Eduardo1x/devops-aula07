@@ -1,3 +1,5 @@
+versão 1.1
+
 # Arquitetura
 ## Inicialização do tabuleiro
 * As funções relacionadas ao gerenciamento das casas do jogo da velha ficarão
