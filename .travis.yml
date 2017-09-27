@@ -2,5 +2,4 @@ language: python
 python:
   - "3.4"
 script:
-  - cd src python teste_inic.py
-  - cd src python teste_jogar.py
+  - cd src python teste_inic.py, teste_jogar.py
