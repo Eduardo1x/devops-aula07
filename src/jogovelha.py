@@ -1,3 +1,4 @@
+# arquivo 1.1
 TAB = []
 def inicializar() :
 TAB.append(['.','.','.'])
